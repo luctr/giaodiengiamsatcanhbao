@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/giaodiengiamsatcanhbao/static/css/main.cc51ddf1.chunk.css",
+    "main.js": "/giaodiengiamsatcanhbao/static/js/main.0a40eeeb.chunk.js",
+    "main.js.map": "/giaodiengiamsatcanhbao/static/js/main.0a40eeeb.chunk.js.map",
+    "runtime-main.js": "/giaodiengiamsatcanhbao/static/js/runtime-main.22ed95d3.js",
+    "runtime-main.js.map": "/giaodiengiamsatcanhbao/static/js/runtime-main.22ed95d3.js.map",
+    "static/js/2.b77b2cae.chunk.js": "/giaodiengiamsatcanhbao/static/js/2.b77b2cae.chunk.js",
+    "static/js/2.b77b2cae.chunk.js.map": "/giaodiengiamsatcanhbao/static/js/2.b77b2cae.chunk.js.map",
+    "index.html": "/giaodiengiamsatcanhbao/index.html",
+    "static/css/main.cc51ddf1.chunk.css.map": "/giaodiengiamsatcanhbao/static/css/main.cc51ddf1.chunk.css.map",
+    "static/js/2.b77b2cae.chunk.js.LICENSE.txt": "/giaodiengiamsatcanhbao/static/js/2.b77b2cae.chunk.js.LICENSE.txt",
+    "static/media/bg-home-active.9013d49b.jpeg": "/giaodiengiamsatcanhbao/static/media/bg-home-active.9013d49b.jpeg",
+    "static/media/bg-home.456e45e2.jpeg": "/giaodiengiamsatcanhbao/static/media/bg-home.456e45e2.jpeg",
+    "static/media/bg_login.a582db58.jpeg": "/giaodiengiamsatcanhbao/static/media/bg_login.a582db58.jpeg",
+    "static/media/logo-atlassian.d92c4f81.svg": "/giaodiengiamsatcanhbao/static/media/logo-atlassian.d92c4f81.svg",
+    "static/media/logo-invision.f3413d25.svg": "/giaodiengiamsatcanhbao/static/media/logo-invision.f3413d25.svg",
+    "static/media/logo-jira.f9c1ddbe.svg": "/giaodiengiamsatcanhbao/static/media/logo-jira.f9c1ddbe.svg",
+    "static/media/logo-slack.d8feb9c5.svg": "/giaodiengiamsatcanhbao/static/media/logo-slack.d8feb9c5.svg",
+    "static/media/logo-spotify.3f055cde.svg": "/giaodiengiamsatcanhbao/static/media/logo-spotify.3f055cde.svg",
+    "static/media/logo-xd.77e7dd15.svg": "/giaodiengiamsatcanhbao/static/media/logo-xd.77e7dd15.svg",
+    "static/media/team-1.0fd36e0e.jpg": "/giaodiengiamsatcanhbao/static/media/team-1.0fd36e0e.jpg",
+    "static/media/team-2.13ae2ce3.jpg": "/giaodiengiamsatcanhbao/static/media/team-2.13ae2ce3.jpg",
+    "static/media/team-3.0ef0be95.jpg": "/giaodiengiamsatcanhbao/static/media/team-3.0ef0be95.jpg",
+    "static/media/team-4.85c82b6e.jpg": "/giaodiengiamsatcanhbao/static/media/team-4.85c82b6e.jpg",
+    "static/media/warning.65220346.jpeg": "/giaodiengiamsatcanhbao/static/media/warning.65220346.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22ed95d3.js",
+    "static/js/2.b77b2cae.chunk.js",
+    "static/css/main.cc51ddf1.chunk.css",
+    "static/js/main.0a40eeeb.chunk.js"
+  ]
+}
